@@ -12,7 +12,11 @@ export const metadata: Metadata = {
       'Spencer Sharp - Software designer, founder, and amateur astronaut',
   },
   description:
+<<<<<<< HEAD
     'I’m Spencer, a software designer and entrepreneur based in New York City. I’m the founder and CEO of Planetaria, where we develop technologies that empower regular people to explore space on their own terms.',
+=======
+    'I draw inspiration, create intuitive designs, develop remdarkable products, launch iterations again and again. Your impressive interaction starts here.',
+>>>>>>> 6bca7c5 (fix)
   alternates: {
     types: {
       'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,
